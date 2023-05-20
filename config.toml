@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Solar Company'
+theme = 'main-solar-theme'
